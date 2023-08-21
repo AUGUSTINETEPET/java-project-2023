@@ -1,1 +1,2 @@
-# java-project-2023
+# java-maven-cicd-project
+Creating a cicd pipeline for java application .
